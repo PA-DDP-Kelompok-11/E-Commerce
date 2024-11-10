@@ -73,7 +73,7 @@ Setelah itu user akan diberikan pilihan untuk bayar sekarang atau masukkan pesan
 
 user akan diberikan pilihan lagi apakah ingin menggunakan kode voucher atau tidak. Setelah memilih, program akan menampilkan invoice dari menu barang yang dibeli.
 
-Setelah itu, program akan memberikan pilihan apakah ingin memesan makanan yang lainnya. Jika user memilih ya, program akan kembali menerimpa input untuk order makanan. Jika, tidak maka akan menampilkan output.
+Setelah itu, program akan memberikan pilihan apakah ingin memesan makanan yang lainnya. Jika user memilih ya, program akan kembali menerima input untuk order makanan. Jika, tidak maka akan menampilkan output.
 
 Tampilan apabila voucher sudah tidak berlaku apabila sudah digunakan
 
@@ -171,7 +171,7 @@ Jika login sebagai admin, maka masukkan username dan password yang sudah fix ses
 
 Menu layanan pada admin
 
-1. Menu makanan
+### **1. Menu makanan**
  
 ![image](https://github.com/user-attachments/assets/e80c5ad3-8e64-4976-a876-8abb95f1e23a)
 
@@ -199,7 +199,7 @@ Untuk mengupdate makanan, admin akan diminta untuk menginput nama, harga, stok m
 
 Untuk menghapus makanan, admin akan diminta untuk menginput nomor makanan yang ingin dihapus
 
-2.	Menu barang
+### **2.	Menu barang**
 
 ![image](https://github.com/user-attachments/assets/da2f6011-d336-4ec4-8e57-f3eea3ff6a6c)
 
@@ -227,7 +227,7 @@ Untuk mengupdate barang, admin akan diminta untuk menginput nama, harga, stok ba
 
 Untuk menghapus barang, admin akan diminta untuk menginput nomor barang yang ingin dihapus
 
-3.  Menu Voucher
+### **3.  Menu Voucher**
 
 ![image](https://github.com/user-attachments/assets/7e914b29-736a-4570-b00c-3aec2b4ec36f)
 
@@ -255,7 +255,7 @@ Untuk mengupdate voucher, admin akan diminta untuk menginput nomor voucher yang 
 
 Untuk menghapus voucher, admin akan diminta untuk menginput nomor voucher yang ingin di hapus, maka akan hilang dari data voucher yang tersedia.
 
-4.	Keluar program
+### **4.	Keluar program***
 
 ![image](https://github.com/user-attachments/assets/e875ebdd-243f-4eee-a8ee-6dec07436e92)
 
